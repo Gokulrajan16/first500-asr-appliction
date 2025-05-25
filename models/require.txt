@@ -1,1 +1,6 @@
+##
+I cannot upload the "stt_hi_conformer_ctc_medium.nemo" file due to more than 25MB
 
+Go to this page "https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_hi_conformer_ctc_medium/files"
+Download this file "stt_hi_conformer_ctc_medium.nemo"
+paste that file in "models" folder
